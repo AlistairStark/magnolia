@@ -1,0 +1,8 @@
+{
+    "publicPath": "<path for webpack compilation>",
+    "toProxy": "<url to proxy. Can be localhost>",
+    "host": "<ftp host name>",
+    "user": "<ftp user name>",
+    "password": "<ftp password>",
+    "remotePath": "<remote path to upload to>"
+}

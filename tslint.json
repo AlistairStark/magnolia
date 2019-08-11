@@ -1,0 +1,15 @@
+{
+    "extends": [
+        "tslint:latest",
+        "tslint-react"
+    ],
+    "rules": {
+        "quotemark": [true, "single", "jsx-double", "avoid-escape", "avoid-template"],
+        "no-submodule-imports": false,
+        "interface-name": false,
+        "object-literal-sort-keys": false,
+        "max-line-length": false,
+        "ordered-imports": false,
+        "prefer-for-of": false
+    }
+}

@@ -1,0 +1,6 @@
+/node_modules/
+gulpfile.js
+assets/core
+assets/ui
+assets/extensions
+assets/js/apps/pool-apps/
