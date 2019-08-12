@@ -19,7 +19,7 @@ const customClasses = {
  * @param contextJSON Context to pass from the template
  * @returns {void}
  */
-function mivaBootstrap(pageType, contextJSON = null, loadGlobal = true) {
+function magnoliaBootstrap(pageType, contextJSON = null, loadGlobal = true) {
     const context = JSON.parse(contextJSON || '{}');
     context.pageId = pageType;
     // Load globals
@@ -47,4 +47,4 @@ function mivaBootstrap(pageType, contextJSON = null, loadGlobal = true) {
     });
 }
 
-mivaBootstrap(pageId);
+magnoliaBootstrap(pageId);
