@@ -76,7 +76,7 @@
   },
   "dependencies": {
     "gulp-inject": "^5.0.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.11",
     "magnific-popup": "^1.1.0",
     "qs": "^6.7.0",
