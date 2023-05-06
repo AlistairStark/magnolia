@@ -79,7 +79,7 @@
     "jquery": "^3.4.1",
     "lodash": "^4.17.11",
     "magnific-popup": "^1.1.0",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router": "^5.0.0",
